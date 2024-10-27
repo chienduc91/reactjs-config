@@ -1,0 +1,88 @@
+{
+  "data" : [
+    {
+      "id": 1,
+      "title": "Tin 1",
+      "description": "WATCH: Nayanthara's wedding documentary teaser out",
+      "url": "https://yourwebsite.com/tin-1",
+      "image": "https://image.talentnetwork.vn/cdytedongnai///news/2023/03/08/1678270264_news-dice.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tin 2",
+      "description": "WATCH: Nayanthara's weddings documentary teaser out",
+      "url": "https://yourwebsite.com/tin-2",
+      "image": "https://image.talentnetwork.vn/cdytedongnai///news/2023/03/08/1678270264_news-dice.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tin 3",
+      "description": "WATCH: Nayanthara's weddings documentary teaser out",
+      "url": "https://yourwebsite.com/tin-3",
+      "image": "https://image.talentnetwork.vn/cdytedongnai///news/2023/03/08/1678270264_news-dice.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tin 4",
+      "description": "WATCH: Nayanthara's weddings documentary teaser out",
+      "url": "https://yourwebsite.com/tin-4",
+      "image": "https://image.talentnetwork.vn/cdytedongnai///news/2023/03/08/1678270264_news-dice.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Tin 5",
+      "description": "WATCH: Nayanthara's weddings documentary teaser out",
+      "url": "https://yourwebsite.com/tin-5",
+      "image": "https://image.talentnetwork.vn/cdytedongnai///news/2023/03/08/1678270264_news-dice.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Tin 6",
+      "description": "WATCH: Nayanthara's weddings documentary teaser out",
+      "url": "https://yourwebsite.com/tin-6",
+      "image": "https://image.talentnetwork.vn/cdytedongnai///news/2023/03/08/1678270264_news-dice.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Tin 7",
+      "description": "WATCH: Nayanthara's weddings documentary teaser out",
+      "url": "https://yourwebsite.com/tin-7",
+      "image": "https://image.talentnetwork.vn/cdytedongnai///news/2023/03/08/1678270264_news-dice.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Tin 8",
+      "description": "WATCH: Nayanthara's weddings documentary teaser out",
+      "url": "https://yourwebsite.com/tin-8",
+      "image": "https://image.talentnetwork.vn/cdytedongnai///news/2023/03/08/1678270264_news-dice.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Tin 9",
+      "description": "WATCH: Nayanthara's weddings documentary teaser out",
+      "url": "https://yourwebsite.com/tin-9",
+      "image": "https://image.talentnetwork.vn/cdytedongnai///news/2023/03/08/1678270264_news-dice.jpg"    
+    }, 
+    {
+      "id": 10,
+      "title": "Tin 10",
+      "description": "WATCH: Nayanthara's weddings documentary teaser out",
+      "url": "https://yourwebsite.com/tin-10",
+      "image": "https://image.talentnetwork.vn/cdytedongnai///news/2023/03/08/1678270264_news-dice.jpg"
+    }, 
+    {
+      "id": 11,
+      "title": "Tin 11",
+      "description": "WATCH: Nayanthara's weddings documentary teaser out",
+      "url": "https://yourwebsite.com/tin-11",
+      "image": "https://image.talentnetwork.vn/cdytedongnai///news/2023/03/08/1678270264_news-dice.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Tin 12",
+      "description": "WATCH: Nayanthara's weddings documentary teaser out",
+      "url": "https://yourwebsite.com/tin-12",
+      "image": "https://image.talentnetwork.vn/cdytedongnai///news/2023/03/08/1678270264_news-dice.jpg"  
+    }
+  ]
+}
